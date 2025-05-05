@@ -1,0 +1,17 @@
+body {
+    background: grey;
+}
+
+h1, p{
+    text-align: center;
+}
+
+img, iframe, ul, h2, a {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+li{
+    color: gold;
+}
